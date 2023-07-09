@@ -1,0 +1,16 @@
+C:\Users\Atrial\source\repos\texttopdf\texttopdf\bin\Debug\texttopdf.exe.config
+C:\Users\Atrial\source\repos\texttopdf\texttopdf\bin\Debug\texttopdf.exe
+C:\Users\Atrial\source\repos\texttopdf\texttopdf\bin\Debug\texttopdf.pdb
+C:\Users\Atrial\source\repos\texttopdf\texttopdf\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Atrial\source\repos\texttopdf\texttopdf\bin\Debug\itextsharp.dll
+C:\Users\Atrial\source\repos\texttopdf\texttopdf\bin\Debug\itextsharp.xml
+C:\Users\Atrial\source\repos\texttopdf\texttopdf\obj\Debug\texttopdf.csproj.AssemblyReference.cache
+C:\Users\Atrial\source\repos\texttopdf\texttopdf\obj\Debug\texttopdf.Form1.resources
+C:\Users\Atrial\source\repos\texttopdf\texttopdf\obj\Debug\texttopdf.Properties.Resources.resources
+C:\Users\Atrial\source\repos\texttopdf\texttopdf\obj\Debug\texttopdf.csproj.GenerateResource.cache
+C:\Users\Atrial\source\repos\texttopdf\texttopdf\obj\Debug\texttopdf.csproj.CoreCompileInputs.cache
+C:\Users\Atrial\source\repos\texttopdf\texttopdf\obj\Debug\texttopdf.csproj.CopyComplete
+C:\Users\Atrial\source\repos\texttopdf\texttopdf\obj\Debug\texttopdf.exe
+C:\Users\Atrial\source\repos\texttopdf\texttopdf\obj\Debug\texttopdf.pdb
+C:\Users\Atrial\source\repos\texttopdf\texttopdf\obj\Debug\texttopdf.Form2.resources
+C:\Users\Atrial\source\repos\texttopdf\texttopdf\obj\Debug\texttopdf.Form3.resources

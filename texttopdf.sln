@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "texttopdf", "texttopdf\texttopdf.csproj", "{9602088D-FFED-48DD-A534-762DB305F736}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9602088D-FFED-48DD-A534-762DB305F736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9602088D-FFED-48DD-A534-762DB305F736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9602088D-FFED-48DD-A534-762DB305F736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9602088D-FFED-48DD-A534-762DB305F736}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3833FC7D-E42C-4C4A-9CD3-CB26151921E7}
+	EndGlobalSection
+EndGlobal
